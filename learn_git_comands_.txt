@@ -1,8 +1,13 @@
-1. code . ~~ to open vs code in the current working directory 
-2. git init ~~ to to add current working directory in git 
-3. git add <file name>  ~~ to add the file in stagin area(Maidan)
-4. git commit ~~ to commit the changes (a vim editer will open and press "i " to writ some thing add to exit press ":wq" adn all this willl do fro 1st time only  )
-5. git status  ~~ ti check he save status  of the file
-6. git add -A ~~ use to add all file in the staging area 
-7. git commit -m "<add your commit msg >"  ~~ commit smartly 
-8. git 
+code . ~~ to open vs code in the current working directory 
+git init ~~ to to add current working directory in git 
+git add <file name>  ~~ to add the file in stagin area(Maidan)
+git commit ~~ to commit the changes (a vim editer will open and press "i " to writ some thing add to exit press ":wq" adn all this willl do fro 1st time only  )
+git status  ~~ ti check he save status  of the file
+git add -A ~~ use to add all file in the staging area 
+git commit -m "<add your commit msg >"  ~~ commit smartly 
+git checkout <filename> ~~ to match with the previous commit  
+git checkout -f  ~~ to match with the previous commit  for all fila at a time
+git log ~~ to see the git commit details 
+git log -p -<no of last commit that u want ot see> ~~ eq -- git log -p -2
+git diff ~~ compare the workinf tree to staging area
+git diff --staging~~ compare the  staging area to last commit 
