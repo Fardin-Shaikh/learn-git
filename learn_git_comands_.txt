@@ -4,4 +4,5 @@
 4. git commit ~~ to commit the changes (a vim editer will open and press "i " to writ some thing add to exit press ":wq" adn all this willl do fro 1st time only  )
 5. git status  ~~ ti check he save status  of the file
 6. git add -A ~~ use to add all file in the staging area 
-7. gir 
+7. git commit -m "<add your commit msg >"  ~~ commit smartly 
+8. git 

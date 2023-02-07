@@ -1,0 +1,41 @@
+09:55 – Untracked & Staged File
+21:20 – git checkout command
+23:45 – git log command
+25:47 – git diff command
+31:08 – Removing file (rm command)
+37:38 – git ignore command
+46:00 – Branches
+58:10 – GitHub
+01:02:07 – Remote Repository
+01:07:18 – git push command
+01:11:37 – git clone 
+01:14:01 – Cheat sheet
+01:14:32 – Courses Detail
+
+►Click here to subscribe - https://www.youtube.com/channel/UCeVM...
+
+
+Best Hindi Videos For Learning Programming:
+
+►Learn Python In One Video - https://www.youtube.com/watch?v=qHJjM...
+
+►Learn JavaScript in One Video - https://www.youtube.com/watch?v=onbBV...
+
+►Learn PHP In One Video - https://www.youtube.com/watch?v=xW7ro...
+
+►Machine Learning Using Python - https://www.youtube.com/playlist?list...
+
+►Creating & Hosting A Website (Tech Blog) Using Python - https://www.youtube.com/playlist?list...
+
+►Advanced Python Tutorials - https://www.youtube.com/playlist?list...
+
+►Object Oriented Programming In Python - https://www.youtube.com/playlist?list...
+
+►Python Data Science and Big Data Tutorials - https://www.youtube.com/playlist?list...
+
+Follow Me On Social Media
+►Website (created using Flask) - https://www.codewithharry.com
+►Facebook - https://www.facebook.com/CodeWithHarry
+►Instagram - https://www.instagram.com/CodeWithHarry/
+►Personal Facebook A/c - https://www.facebook.com/geekyharis
+Twitter - https://twitter.com/Haris_Is_Here
