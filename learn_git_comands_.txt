@@ -1,0 +1,7 @@
+1. code . ~~ to open vs code in the current working directory 
+2. git init ~~ to to add current working directory in git 
+3. git add <file name>  ~~ to add the file in stagin area(Maidan)
+4. git commit ~~ to commit the changes (a vim editer will open and press "i " to writ some thing add to exit press ":wq" adn all this willl do fro 1st time only  )
+5. git status  ~~ ti check he save status  of the file
+6. git add -A ~~ use to add all file in the staging area 
+7. gir 
