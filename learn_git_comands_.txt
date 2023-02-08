@@ -20,7 +20,6 @@ touch .gitignore  ~~ create a igone file ,this file use to write the name of  th
     fardin.log  ~~ means ignore the file in the whole project and dont add this file in stagingarea
     /fardin.log  ~~ means ignore the file in the current working directory 
     *.log  ~~ means ignore this file extention in whole project 
-    <folder name >/ ~~ to igoner the whole folder 
-    
+    <folder name >/ ~~ to igoner the whole folder   
 )
 
