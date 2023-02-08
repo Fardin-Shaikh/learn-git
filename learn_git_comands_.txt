@@ -20,11 +20,9 @@ touch .gitignore  ~~ create a igone file ,this file use to write the name of  th
     fardin.log  ~~ means ignore the file in the whole project and dont add this file in stagingarea
     /fardin.log  ~~ means ignore the file in the current working directory 
     *.log  ~~ means ignore this file extention in whole project 
-    <folder name >/ ~~ to igoner the whole folder    
-) 
-git brance ~~ to check how many Branches are their 
-git brance <new branceh name > ~~ to create new branch 
-git checkout <branch name> ~~ to switch to branceh 
- 
-
-
+    <folder name >/ ~~ to igoner the whole folder   
+)
+git branch ~~ to check how many branch 
+git branch <new branch name >
+git checkout <want to switch branch name > ~~ use to switch between branch 
+git merge feature1 ~~ to merge the branch in master branch 
