@@ -22,4 +22,7 @@ touch .gitignore  ~~ create a igone file ,this file use to write the name of  th
     *.log  ~~ means ignore this file extention in whole project 
     <folder name >/ ~~ to igoner the whole folder   
 )
-
+git branch ~~ to check how many branch 
+git branch <new branch name >
+git checkout <want to switch branch name > ~~ use to switch between branch 
+git merge feature1 ~~ to merge the branch in master branch 
