@@ -15,3 +15,12 @@ git commit -a -m "<add comment >" ~~ to add the directly from working tree to co
 git rm <filename> ~~ to remove the file from staging area and also from commit
 git rm --cached <filename> ~~ to remove the file from staging area only
 git status -s ~~ git a short statsu of the file in MM formate (1st m stands form the file has added in commit 2nd M stands for the working directory edit file )
+touch .gitignore  ~~ create a igone file ,this file use to write the name of  the ignore file name (
+    write this in the file 
+    fardin.log  ~~ means ignore the file in the whole project and dont add this file in stagingarea
+    /fardin.log  ~~ means ignore the file in the current working directory 
+    *.log  ~~ means ignore this file extention in whole project 
+    <folder name >/ ~~ to igoner the whole folder 
+    
+)
+
