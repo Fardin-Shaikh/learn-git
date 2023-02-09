@@ -26,3 +26,4 @@ git branch ~~ to check how many branch
 git branch <new branch name >
 git checkout <want to switch branch name > ~~ use to switch between branch 
 git merge feature1 ~~ to merge the branch in master branch 
+git checkout -b <the new branch name> ~~ it create a branch and take u their
