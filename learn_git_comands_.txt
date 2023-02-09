@@ -27,3 +27,6 @@ git branch <new branch name >
 git checkout <want to switch branch name > ~~ use to switch between branch 
 git merge feature1 ~~ to merge the branch in master branch 
 git checkout -b <the new branch name> ~~ it create a branch and take u their
+git remote add origin https://github.com/Fardin-Shaikh/learn-git.git ~~ it will short the this url by the naem origin 
+git remote ~~  to list the remote(short name of url )
+get remote -v ~~ to list the remote url 
