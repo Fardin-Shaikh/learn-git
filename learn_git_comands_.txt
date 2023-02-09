@@ -33,6 +33,7 @@ git remote -v ~~ to list the remote url
 git push origin main ~~ using this u can push your code in git hub 
 git -u push origin main ~~ using this u can push your code in git hub (
     uu can push differen branchs by replacing "main "
+    by writing git push -u origin master ,
+    next time it will push in the main branch in origin -- by simply writing git push  
 )
-d
-
+git clone <clone url >  <name of the folder u want >
