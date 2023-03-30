@@ -30,6 +30,7 @@ git checkout -b <the new branch name> ~~ it create a branch and take u their
 git remote add origin https://github.com/Fardin-Shaikh/learn-git.git ~~ it will short the this url by the naem origin 
 git remote ~~  to list the remote(short name of url )
 git remote -v ~~ to list the remote url 
+git remote set-url origin <url> ---- it is use to edit the origin url 
 git push origin main ~~ using this u can push your code in git hub 
 git -u push origin main ~~ using this u can push your code in git hub (
     uu can push differen branchs by replacing "main "
